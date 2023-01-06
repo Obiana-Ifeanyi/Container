@@ -1,0 +1,31 @@
+Engage
+
+DESCRIPTION 
+Welcome to the partnership NetDevOps Track designed by Cisco and ucode IT academy! 
+As we see, today, programs have become much bigger than ever before. 
+And it is not always very convenient to pass complicated systems between devices. 
+Have you ever thought about why nearly all ucode materials contain information about 
+software versions you need to use? 
+
+For example, you can write print "box:", box in Python2, but it won`t work in Python3. 
+Yes, it is an oversimpliﬁed example, but it shows that you always need to take care of 
+the working environment. Because it won't be so easy with 10 dependencies, and error 
+messages will deﬁnitely infuriate you. 
+
+Until 2013, there was no standard solution, which would help to transfer systems with 
+their dependencies across devices. But then Docker appeared with the idea that we can 
+put everything we want into containers, and transfer them as easily as we transfer goods 
+on ships or planes. Docker can package an application and its dependencies in a virtual 
+container that can run on any Linux, Windows, or macOS computer. 
+
+This challenge includes tasks for understanding how to deal with this cool technology. 
+Figure out why no modern DevOps engineer could live without it.
+
+BIG IDEA 
+Containerization.
+
+ESSENTIAL QUESTIONS 
+How to put your program into a container?
+
+CHALLENGE 
+Create your ﬁrst containers and learn how to work with them.
