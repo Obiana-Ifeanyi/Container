@@ -1,0 +1,15 @@
+The steps involved in the Docker architecture are:
+
+    The developer creates a Docker image by defining the application code, dependencies, and configurations in a Dockerfile.
+
+    The Docker client sends the build command to the Docker daemon, which then builds the Docker image.
+
+    The Docker image is stored in the Docker registry, where it can be shared with others.
+
+    The developer creates a Docker container by running the Docker image with the Docker run command.
+
+    The Docker container runs on a Docker host, which can be a physical or virtual machine.
+
+    The Docker container can communicate with other Docker containers on the same Docker network.
+
+Overall, the Docker architecture simplifies the process of developing, deploying, and managing applications by using containerization technology.
